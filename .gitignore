@@ -1,0 +1,13 @@
+.env
+.ipynb_checkpoints
+__pycache__
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.vscode
+.idea
+.DS_Store
